@@ -168,6 +168,8 @@ for length in range(1, 26):
             sorted_clean_questions.append(question_into_int[i[0]])
             sorted_clean_answers.append(answer_into_int[i[0]])
 
+## setting up the hyper parameters for Seq2Seq model
+
 
 
 
